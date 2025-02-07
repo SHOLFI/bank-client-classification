@@ -1,4 +1,4 @@
-# Иank-Сlient-Сlassification
+# Bank Сlient Сlassification
 Building a model that predicts the total ride duration of taxi trips in New York City
 
 **Business objective**: to segment existing customers, interpret these segments, and define a strategy for interacting with them.
